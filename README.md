@@ -1,7 +1,6 @@
 # ✨ Oiee! Eu sou a Alê ✨
 Estudante de Análise e Desenvolvimento de Sistemas
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjWhy6Qpx_3g0EC4yezvL2Q)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ale_gonss/)
 
 ![ale00gs GitHub stats](https://github-readme-stats.vercel.app/api?username=ale00gs&show_icons=true&theme=radical)
