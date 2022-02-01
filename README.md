@@ -15,8 +15,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 <img align="center"  alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
 
 <img align="center"  alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
-
-<img align="center"  alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
 </div><br>
 
 "Todo mundo deveria aprender a programar um computador, porque isso ensina você a pensar" -Steve Jobs
