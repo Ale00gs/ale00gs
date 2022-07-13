@@ -16,7 +16,7 @@
 <div align="center">  
   
 ## Tecnologias que estou aprendendo:
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block"><br>
 <img align="center"  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
 
 <img align="center"  alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
@@ -29,8 +29,10 @@
   
 <div align="center">
   
-## Redes Sociais:
+## Redes Sociais
+<div style="display: inline_block"><br>  
+  <a href="https://instagram.com/ale_gonss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alerrandra-gonsalves-sissa-2805a6238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br> 
   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ale_gonss/)
-
 </div> 
