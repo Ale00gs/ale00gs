@@ -24,8 +24,10 @@
 <img align="center"  alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
 
 <img align="center"  alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+  
+<img align="right" alt="ale-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/907398442035339287/975899031475728404/download20220501200654.png?width=427&height=427">
 </div><br>
-</div>
+</div>  
   
 <div align="center">
   
@@ -37,3 +39,4 @@
   
   ![Snake animation](https://github.com/ale00gs/ale00gs/blob/output/github-contribution-grid-snake.svg)
 </div> 
+  
