@@ -1,14 +1,16 @@
 <div align="center"> 
   <h1>✨ Oiee! Eu sou a Alê ✨</h1>
-  <p>Estudante de Análise e Desenvolvimento de Sistemas</p>
-  <p><strong>"Todo mundo deveria aprender a programar um computador, porque isso ensina você a pensar" -Steve Jobs</strong></p>
-</div>  
+  <p style="color:rgb(201, 38, 103);">Estudante de Análise e Desenvolvimento de Sistemas</p>
+  <p style="color:purple;" ><strong>"Todo mundo deveria aprender a programar um computador, porque isso ensina você a pensar" -Steve Jobs</strong></p>
+</div>    
 
 
 <div align="center">
   <a href="https://github.com/ale00gs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ale00gs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale00gs&layout=compact&langs_count=7&theme=radical"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=ale00gs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale00gs&layout=compact&langs_count=7&theme=radical"/> -->
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale00gs&langs_count=7&theme=radical" />
+    
 </div><br>
   
 <!-- ![ale00gs GitHub stats](https://github-readme-stats.vercel.app/api?username=ale00gs&show_icons=true&theme=radical) -->
