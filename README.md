@@ -12,7 +12,7 @@
 ##
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ale00gs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img width="49%" height="195px" src="https://github-profile-trophy.vercel.app/?username=ale00gs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ale00gs&bg_color=0d1117&color=7a67ac&line=7a67ac&point=7a67ac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -28,11 +28,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117&logoColor=7a67ac)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=7a67ac&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=7a67ac&labelColor=0D1117)&nbsp;
-</div>
 
 ##
-
-<div align="center">
 
 ### Redes Sociais:
 
