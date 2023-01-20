@@ -42,7 +42,9 @@
 <div align="center">
 
 ![Snake animation](https://github.com/ale00gs/ale00gs/blob/output/github-contribution-grid-snake.svg)
-
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ale00gs}/count.svg" /></p> 
+<br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
