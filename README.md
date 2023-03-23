@@ -23,11 +23,12 @@
 
 ### Tecnologias que estou aprendendo:
 
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=7a67ac)&nbsp; 
+![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=7a67ac)&nbsp; 
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=7a67ac)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117&logoColor=7a67ac)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=7a67ac&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=7a67ac&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=python&logoColor=7a67ac&labelColor=0D1117)&nbsp;
 
 ##
 
