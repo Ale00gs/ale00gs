@@ -10,10 +10,9 @@
 </div> 
 
 ##
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-profile-trophy.vercel.app/?username=ale00gs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale00gs&layout=compact&hide_border=false&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ale00gs&show_icons=true&bg_color=0D1117&title_color=7a67ac&labelColor=0D1117&textColor=ffffff&logoColor=7a67ac"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale00gs&layout=compact&hide_border=false&title_color=7a67ac&text_color=ffffff&bg_color=0D1117" />
 </div>
 
 ##
