@@ -38,9 +38,10 @@
 ##
 
 ### Redes Sociais:
-  <img href="https://www.linkedin.com/in/alerrandra" target="_blank" src="https://skillicons.dev/icons?i=linkedin"/>
-  <img href="https://instagram.com/ale_gonss" target="_blank" src="https://skillicons.dev/icons?i=instagram"/>
-  
+
+<a href="https://www.linkedin.com/in/alerrandra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://instagram.com/ale_gonss" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" style="border-radius: 30px" target="_blank"></a>
+
 </div>  
 
 ##
