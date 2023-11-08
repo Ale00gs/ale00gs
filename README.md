@@ -34,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=linux"/>
   <img src="https://skillicons.dev/icons?i=py"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=arduino"/>
+  <img src="https://skillicons.dev/icons?i=c"/>
 </p>
 
 ##
