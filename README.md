@@ -20,7 +20,7 @@
 
 <div align="center"> 
 
-### Tecnologias que estou aprendendo:
+### Tecnologias que sei:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
