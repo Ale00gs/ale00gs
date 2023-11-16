@@ -22,21 +22,71 @@
 
 ### Tecnologias que estou aprendendo:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=js"/>
-  <img src="https://skillicons.dev/icons?i=react"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=git"/>
-  <img src="https://skillicons.dev/icons?i=github"/>
-  <img src="https://skillicons.dev/icons?i=php"/>
-  <img src="https://skillicons.dev/icons?i=linux"/>
-  <img src="https://skillicons.dev/icons?i=py"/>
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-  <img src="https://skillicons.dev/icons?i=arduino"/>
-  <img src="https://skillicons.dev/icons?i=c"/>
-</p>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css"/>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js"/>
+      <br>JavaScript
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c"/>
+      <br>C
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=arduino"/>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git"/>
+      <br>Git
+    </td>
+    
+</tr>
+<tr>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=php"/>
+      <br>Php
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=linux"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=py"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql"/>
+      <br>MYSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github"/>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongo"/>
+      <br>MongoDB
+    </td>  
+</tr>
+</table>
+</div>
 
 ##
 
