@@ -3,6 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a67ac&size=35&center=true&vCenter=true&width=1000&lines=Oiee!+Eu+sou+a+Alê;Tenho+23+anos+;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
 
+<div align="center"> 
+  
+
+![](https://komarev.com/ghpvc/?username=ale00gs)
+</div>
 
 ## 
 <div align="center"> 
@@ -12,7 +17,9 @@
 ##
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ale00gs&show_icons=true&bg_color=0D1117&title_color=7a67ac&labelColor=0D1117&textColor=ffffff&logoColor=7a67ac"/>
+  
+ 
+  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ale00gs&theme=github_dark&show_icons=true&bg_color=0D1117&title_color=7a67ac&labelColor=0D1117&textColor=ffffff&logoColor=7a67ac"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale00gs&layout=compact&hide_border=false&title_color=7a67ac&text_color=ffffff&bg_color=0D1117" />
 </div>
 
@@ -98,6 +105,5 @@
 </div>  
 
 ##
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
   
