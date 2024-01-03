@@ -3,12 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a67ac&size=35&center=true&vCenter=true&width=1000&lines=Oiee!+Eu+sou+a+Alê;Tenho+23+anos+;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
 
-<div align="center"> 
-  
-
-![](https://komarev.com/ghpvc/?username=ale00gs)
-</div>
-
 ## 
 <div align="center"> 
   <p><strong>"Todo mundo deveria aprender a programar um computador, porque isso ensina você a pensar" -Steve Jobs</strong></p>
@@ -27,8 +21,7 @@
 
 <div align="center"> 
 
-### TECNOLOGIAS QUE SEI:
-
+<h3> TECNOLOGIAS QUE SEI: </h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -98,9 +91,10 @@
 ##
 
 ### REDES SOCIAIS:
-
-<a href="https://www.linkedin.com/in/alerrandra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://instagram.com/ale_gonss" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" style="border-radius: 30px" target="_blank"></a>
+<div align="center">
+  <a href="#" target="_blank"><img width=15% align="center" src="./img.png"/></a></br>
+  <a href="https://www.linkedin.com/in/alerrandra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://instagram.com/ale_gonss" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" style="border-radius: 30px" target="_blank"></a>
 
 </div>  
 
