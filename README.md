@@ -5,7 +5,7 @@
 
 ## 
 <div align="center"> 
- <img width=100% src="frase.png"/> 
+ <img width=100% src="fraseGithub.png"/> 
 </div> 
 
 ##
