@@ -90,9 +90,8 @@
 
 ##
 
-### REDES SOCIAIS:
-<div align="center">
-  <a href="#" target="_blank"><img width=15% align="center" src="./img.png"/></a></br>
+### REDES SOCIAIS: 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/alerrandra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" style="border-radius: 30px" target="_blank"></a> 
   <a href="https://instagram.com/ale_gonss" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" style="border-radius: 30px" target="_blank"></a>
 
