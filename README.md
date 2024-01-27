@@ -5,7 +5,7 @@
 
 ## 
 <div align="center"> 
-  <p><strong>"Todo mundo deveria aprender a programar um computador, porque isso ensina você a pensar" -Steve Jobs</strong></p>
+ <img width=100% src="frase.png"/> 
 </div> 
 
 ##
