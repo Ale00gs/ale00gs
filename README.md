@@ -52,6 +52,10 @@
       <img src="https://skillicons.dev/icons?i=git"/>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind"/>
+      <br>Tailwind
+    </td>
     
 </tr>
 <tr>
