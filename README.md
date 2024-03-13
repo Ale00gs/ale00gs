@@ -13,7 +13,8 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ale00gs&theme=buefy&show_icons=true"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale00gs&layout=compact&theme=buefy&hide_border=true" />
-</div>
+
+</div> 
 
 ##
 
@@ -25,66 +26,66 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html"/>
+      <code><img src="https://skillicons.dev/icons?i=html"/></code>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css"/>
+        <code><img src="https://skillicons.dev/icons?i=css"/></code>
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js"/>
+        <code><img src="https://skillicons.dev/icons?i=js"/></code>
       <br>JavaScript
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c"/>
+        <code><img src="https://skillicons.dev/icons?i=c"/></code>
       <br>C
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=arduino"/>
+        <code><img src="https://skillicons.dev/icons?i=arduino"/></code>
       <br>Arduino
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap"/>
+        <code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git"/>
+        <code><img src="https://skillicons.dev/icons?i=git"/></code>
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind"/>
+        <code><img src="https://skillicons.dev/icons?i=tailwind"/></code>
       <br>Tailwind
     </td>
     
 </tr>
 <tr>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=php"/>
+        <code><img src="https://skillicons.dev/icons?i=php"/></code>
       <br>Php
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=linux"/>
+        <code><img src="https://skillicons.dev/icons?i=linux"/></code>
       <br>Linux
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=py"/>
+        <code><img src="https://skillicons.dev/icons?i=py"/></code>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql"/>
+        <code><img src="https://skillicons.dev/icons?i=mysql"/></code>
       <br>MYSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react"/>
+        <code><img src="https://skillicons.dev/icons?i=react"/></code>
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github"/>
+        <code><img src="https://skillicons.dev/icons?i=github"/></code>
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongo"/>
+         <code><img src="https://skillicons.dev/icons?i=mongo"/></code>
       <br>MongoDB
     </td>  
 </tr>
