@@ -87,7 +87,11 @@
     <td align="center" width="96">
          <code><img src="https://skillicons.dev/icons?i=mongo"/></code>
       <br>MongoDB
-    </td>  
+    </td>
+ <td align="center" width="96">
+         <code><img src="https://skillicons.dev/icons?i=aws"/></code>
+      <br>AWS
+    </td> 
 </tr>
 </table>
 </div>
