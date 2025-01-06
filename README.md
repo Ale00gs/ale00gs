@@ -37,14 +37,6 @@
         <code><img src="https://skillicons.dev/icons?i=js"/></code>
       <br>JavaScript
     </td>
-     <td align="center" width="96">
-        <code><img src="https://skillicons.dev/icons?i=c"/></code>
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <code><img src="https://skillicons.dev/icons?i=arduino"/></code>
-      <br>Arduino
-    </td>
     <td align="center" width="96">
         <code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
       <br>Bootstrap
@@ -65,16 +57,8 @@
       <br>Php
     </td>
     <td align="center" width="96">
-        <code><img src="https://skillicons.dev/icons?i=linux"/></code>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
         <code><img src="https://skillicons.dev/icons?i=py"/></code>
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <code><img src="https://skillicons.dev/icons?i=mysql"/></code>
-      <br>MYSQL
     </td>
     <td align="center" width="96">
         <code><img src="https://skillicons.dev/icons?i=react"/></code>
